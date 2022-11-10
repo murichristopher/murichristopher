@@ -21,8 +21,8 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-	 <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ruby.png"/> </a> 
-	 <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma.png"/> </a> 
+    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ruby.png"/> </a> 
+    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> </a> 
 </p>
 
 <p align="center">
