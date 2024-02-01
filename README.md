@@ -14,7 +14,7 @@ Here are the technologies I'm currently working with:
 
 In addition, I have experience and knowledge in the following technologies:
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,golang,vue,rabbitmq,tailwindcss,jquery,nuxt&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,golang,vue,rabbitmq,tailwindcss,sass,jquery,nuxt&theme=dark)](https://skillicons.dev)
 
 
 <p align="center">
