@@ -9,7 +9,7 @@
 <br/>
 Here are the technologies I'm currently working with:
 
-[![My Skills](https://skillicons.dev/icons?i=rails,react,typescript,storybook,docker&theme=dark&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rails,react,typescript,docker&theme=dark&perline=6)](https://skillicons.dev)
 
 <p align="center">
     <a href="https://github.com/murichristopher/github-readme-streak-stats">
