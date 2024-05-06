@@ -9,7 +9,7 @@
 
 * Here are the technologies I'm currently working with:
 
-[![My Skills](https://skillicons.dev/icons?i=elixir,phoenix,react,typescript&theme=dark&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=elixir,react,typescript&theme=dark&perline=6)](https://skillicons.dev)
 
 
 * In addition, I have experience and knowledge in the following technologies:
