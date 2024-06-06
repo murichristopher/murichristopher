@@ -2,10 +2,7 @@
 
 - 🌱 I’m currently working as Software Developer at [Rebase](https://www.rebase.com.br)
 
-<br/>
-
 ### 🚀 Languages and Tools:
-<br/>
 
 * Here are the technologies I'm currently working with:
 
