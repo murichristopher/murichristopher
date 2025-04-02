@@ -1,6 +1,6 @@
 ### 🙋‍♂️ About Me
 
-- 🌱 I’m currently working as Software Developer at [Rebase](https://www.rebase.com.br)
+- 🌱 I’m currently working as Software Developer
 
 ### 🚀 Languages and Tools:
 
