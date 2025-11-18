@@ -1,7 +1,3 @@
-### 🙋‍♂️ About Me
-
-- 🌱 I’m currently working as Software Developer at [RD Station](www.rdstation.com)
-
 ### 🚀 Languages and Tools:
 
 * Here are the technologies I'm currently working with:
